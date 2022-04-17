@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaa Taha El Maria</h1>
 <h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaatahaelmaria" alt="alaatahaelmaria" /></a> </p>
-
 - 📫 How to reach me **alaaelmaria22437@yahoo.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ujK4eg9lDvKgmu3KJCjM-zYDKcC5Hp_E/view?usp=sharing](https://drive.google.com/file/d/1ujK4eg9lDvKgmu3KJCjM-zYDKcC5Hp_E/view?usp=sharing)
