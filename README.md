@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Taha El Maria</h1>
-<h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student</h3>
+<h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaatahaelmaria&label=Profile%20views&color=0e75b6&style=flat" alt="alaatahaelmaria" /> </p>
 
