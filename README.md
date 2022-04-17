@@ -1,5 +1,9 @@
-giphy (1).gif
+
+
 <h1 align="center">Hi 👋, I'm Alaa Taha El Maria</h1>
+<p align="center">
+  <img src="https://github.com/Fatma-elzahra-Mo/Fatma-elzahra-Mo/blob/main/giphy.gif" />
+</p>
 <h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student</h3>
 
 - 📫 How to reach me **alaaelmaria22437@yahoo.com**
