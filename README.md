@@ -1,3 +1,4 @@
+giphy (1).gif
 <h1 align="center">Hi 👋, I'm Alaa Taha El Maria</h1>
 <h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student</h3>
 
