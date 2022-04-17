@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Alaa Taha El Maria🤖</h1>
 <p align="center">
-  <img src="https://github.com/Alaatahaelmaria/Alaatahaelmaria/blob/Alaatahaelmaria/giphy_s.gif" />
+  <img src="https://github.com/Alaatahaelmaria/Alaatahaelmaria/blob/Alaatahaelmaria/giphy%20(2).gif" />
 </p>
 <h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student</h3>
 
