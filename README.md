@@ -6,6 +6,8 @@
 </p>
 <h3 align="center">My name is Alaa Taha El Maria , 21 years old from Egypt , An Artificial intelligence Student</h3>
 
+- 📚 I`m currently learning **Computer Vision,Data analysis,Machine Learning,Cyber Security,NLP,Robotics**
+
 - 📫 How to reach me **alaaelmaria22437@yahoo.com**
 
 - 📄 Know about my experiences  **[https://drive.google.com/file/d/1xQFFVhgkcisYTD5dZYpARKp9x3zI7rGc/view?usp=share_link]**
