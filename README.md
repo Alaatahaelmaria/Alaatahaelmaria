@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" />
 </p>
-<h3 align="center">My name is Alaa Taha El Maria , 22 years old from Egypt , An Artificial intelligence Student</h3>
+<h3 align="center">My name is Alaa Taha El Maria , 24 years old from Egypt , An Artificial intelligence Engineer and Teaching Assistant at MNU </h3>
 
 - 📚 I`m currently learning **Computer Vision,Data analysis,Machine Learning,Cyber Security,NLP,Robotics**
 
