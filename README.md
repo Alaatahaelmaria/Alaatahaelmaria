@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alaa Taha El Maria🤖</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m)" />
+  <img src="[[https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBvc3F1NjVpNWE4d2FsdWd1aDM3YzE3amhtMDVuMmp1enF5N2lxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" />
 </p>
 <h3 align="center">A passionate Artificial intelligence Engineer from Egypt and Teaching Assistant at MNU</h3>
 
