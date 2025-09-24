@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Alaa Taha El Maria🤖</h1>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBvc3F1NjVpNWE4d2FsdWd1aDM3YzE3amhtMDVuMmp1enF5N2lxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJrN2t2eTc0eDkwZnJkMGg0aDNoM2txMmMzZml1NHJnZHkxbTUzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif" />
 </p>
-<h3 align="center">A passionate Artificial intelligence Engineer from Egypt and Teaching Assistant at MNU</h3>
+<h2 align="center">A passionate Artificial intelligence Engineer from Egypt and Teaching Assistant at MNU</h2>
 
 - 🔭 I’m currently working on **Mansoura National University**
 
