@@ -2,6 +2,17 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJrN2t2eTc0eDkwZnJkMGg0aDNoM2txMmMzZml1NHJnZHkxbTUzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif" />
 </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=alaatahaelmaria&label=Profile%20views&color=0e75b6&style=flat" alt="alaatahaelmaria" /> 
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alaa-taha-el-maria"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/alaatahaelmaria"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://medium.com/@alaaelmaria0"><img src="https://img.shields.io/badge/medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/alaaelmaria0"><img src="https://img.shields.io/badge/hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+</p>
+
 <h2 align="center">A passionate Artificial intelligence Engineer from Egypt and Teaching Assistant at MNU</h2>
 
 - 🔭 I’m currently working on **Mansoura National University**
