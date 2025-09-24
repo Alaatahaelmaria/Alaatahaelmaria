@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alaa Taha El Maria🤖</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" />
+  <img src="[https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m)" />
 </p>
 <h3 align="center">A passionate Artificial intelligence Engineer from Egypt and Teaching Assistant at MNU</h3>
 
