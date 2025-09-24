@@ -14,6 +14,24 @@
 </p>
 
 <h2 align="center">A passionate Artificial intelligence Engineer from Egypt and Teaching Assistant at MNU</h2>
+<h3>🔬 Technical Expertise:</h3>
+
+- Advanced skills in **Python, ML, and DL**  
+- Hands-on with frameworks: **PyTorch, TensorFlow, Scikit-learn, Keras**  
+- Experience with **LSTM, GANs, and Computer Vision**  
+- Strong foundation in **data preprocessing, feature engineering, and model optimization**  
+
+<h3>💼 Professional Highlights:</h3>
+
+- Teaching Assistant at **Mansoura National University (MNU)**  
+- Contributed to AI-based academic and applied research projects  
+- Published and regularly writing on **IEEE Explore**  
+- Built several end-to-end AI projects available on my [Portfolio](https://my-portifolo-theta.vercel.app/)  
+
+<h3>🌱 Continuous Learner:</h3>
+
+I’m committed to lifelong learning — currently expanding expertise in **PyTorch, GANs, and advanced AI architectures**, while participating in competitions, hackathons, and research collaborations.
+
 
 - 🔭 I’m currently working on **Mansoura National University**
 
